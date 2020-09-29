@@ -1,0 +1,24 @@
+[
+  {
+    "Questions": [
+      {
+        "id": 1,
+        "question": "When World War 2 started?",
+        "answers": ["1989", "1913", "1914", "1939"],
+        "correct_answer": 4
+      },
+      {
+        "id": 2,
+        "question": "When World War 2 ended?",
+        "answers": ["1929", "1919", "1945", "1939"],
+        "correct_answer": 3
+      },
+      {
+        "id": 3,
+        "question": "What color is reserved for ferrari?",
+        "answers": ["red", "green", "purple", "blue"],
+        "correct_answer": 1
+      }
+    ]
+  }
+]
